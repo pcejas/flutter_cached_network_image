@@ -9,14 +9,11 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 
-/**
- *  CachedNetworkImage for Flutter
- *
- *  Copyright (c) 2017 Rene Floor
- *
- *  Released under MIT License.
- */
-
+ ///  CachedNetworkImage for Flutter
+ ///
+ ///  Copyright (c) 2017 Rene Floor
+ ///
+ ///  Released under MIT License.
 class CachedNetworkImage extends StatefulWidget {
   static List<Object> _registeredErrors = <Object>[];
 

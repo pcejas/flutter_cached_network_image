@@ -22,3 +22,7 @@ pubspec.lock
 .idea/
 
 \.DS_Store
+example/android/gradle/wrapper/gradle-wrapper.properties
+example/android/gradlew
+example/android/gradlew.bat
+example/android/gradle/wrapper/gradle-wrapper.jar
